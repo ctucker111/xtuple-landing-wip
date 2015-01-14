@@ -2271,7 +2271,7 @@ if (typeof jQuery === 'undefined') {
   }
 
 
-  // AFFIX PLUGIN DEFINITION
+  // AFFIX PLUGIN DEFINITION 
   // =======================
 
   function Plugin(option) {
