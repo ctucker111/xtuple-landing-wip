@@ -1,1 +1,1 @@
-xTuple Github Dev Landing
+xTuple Github Landing
