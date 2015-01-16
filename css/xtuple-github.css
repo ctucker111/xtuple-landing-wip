@@ -29,32 +29,23 @@ h2,
 h3,
 h4,
 h5,
-h6,
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.h6 {
+h6 {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 }
 
-h2,
-.h2 {
+h2 {
   font-size: 29px;
   margin-top: 5px;
   margin-bottom: 15px;
 }
 
-h3,
-.h3 {
+h3 {
 	margin-top: 20px;
 	margin-bottom: 10px;
 }
 
-h4,
-.h4 {
+h4 {
 	font-size: 22px;
 	font-weight: 400;
   margin-top: 8px;
