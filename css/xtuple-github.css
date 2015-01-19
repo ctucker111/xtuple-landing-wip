@@ -19,7 +19,7 @@ body {
 }
 
 .intro {
-  padding-bottom: 38px;
+  min-height: 495px;
 }
 
 a:visited {
@@ -56,7 +56,7 @@ hr {
 }
 
 img {
-  padding: 12px 0px 22px;
+  padding: 16px 0px 26px;
 }
 
 
